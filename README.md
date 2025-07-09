@@ -13,7 +13,7 @@
 [issues-url]: https://github.com/sumitprakash61/Optical-character-recognition-ocr-/issues
 
 <p align="center">
-  <img src="https://github.com/sumitprakash61/Optical-character-recognition-ocr-/raw/main/assets/ocr_logo.png" alt="OCR Logo" width="200"/>
+  <img src="https://github.com/sumitprakash61/Optical-character-recognition-ocr/raw/main/assets/ocr_logo.png" alt="OCR Logo" width="200"/>
 </p>
 
 <h3 align="center" style="text-align:center">OCR — Optical Character Recognition</h3>
